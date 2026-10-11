@@ -1,0 +1,17 @@
+{
+  "name": "FitTrack - Personal Fitness Tracker",
+  "short_name": "FitTrack",
+  "description": "Minimal, mobile-first personal fitness tracking PWA",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#059669",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
